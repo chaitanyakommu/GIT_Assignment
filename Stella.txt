@@ -1,2 +1,3 @@
-a glass of red with my github assignment.
-cat is studying with me
+@a glass of red with my github assignment.
+@cat is studying with me
+@I am so sleepy, still have a lot to do
